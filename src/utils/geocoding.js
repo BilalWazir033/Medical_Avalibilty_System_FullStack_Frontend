@@ -7,7 +7,6 @@ const getAddress = async (lat, lng) => {
       }
     );
 lalla
-git add .
 
 
     const data = await res.json();
