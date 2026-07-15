@@ -6,7 +6,6 @@ const getAddress = async (lat, lng) => {
         headers: { "User-Agent": "your-app" }
       }
     );
-lalla
 
 
     const data = await res.json();
